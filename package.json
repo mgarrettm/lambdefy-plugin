@@ -1,0 +1,23 @@
+
+{
+  "name": "lambdefy-plugin",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Lambdefy Plugin - If you have a Node application listening to a port, you can deploy it to AWS Lambda and API Gateway using Lambdefy, just add one line of code.",
+  "author": "Garrett McGrath",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgarrettm/lambdefy-plugin"
+  },
+  "keywords": [],
+  "main": "index.js",
+  "bin": {},
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "bluebird": "^3.0.6"
+  }
+}
